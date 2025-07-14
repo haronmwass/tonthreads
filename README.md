@@ -27,7 +27,7 @@ TON Threads is a revolutionary Web3 application that enables users to create and
 - **RESTful API**: Clean API design for frontend-backend communication
 - **Security**: Row-level security and input validation
 
-## 🏗️ Architecture
+## 🏗Architecture
 
 ### Frontend (React + TypeScript)
 - **React Router**: Client-side routing for SPA navigation
@@ -59,8 +59,8 @@ TON Threads is a revolutionary Web3 application that enables users to create and
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/ton-threads/ton-threads.git
-cd ton-threads
+git clone https://github.com/haronmwass/tonthreads.git
+cd tonthreads
 ```
 
 ### Install Dependencies
@@ -197,7 +197,7 @@ npm start
 npx hardhat deploy --network ton-mainnet
 ```
 
-## 🔒 Security Considerations
+##  Security Considerations
 
 - **Input Validation**: All user inputs are sanitized and validated
 - **Rate Limiting**: API endpoints are rate-limited to prevent abuse
@@ -205,7 +205,7 @@ npx hardhat deploy --network ton-mainnet
 - **Access Control**: Role-based access control for admin functions
 - **Data Encryption**: Sensitive data is encrypted at rest and in transit
 
-## 🌟 Contributing
+## Contributing
 
 We welcome contributions! Please follow these steps:
 
@@ -221,11 +221,11 @@ We welcome contributions! Please follow these steps:
 - Write tests for new features
 - Update documentation as needed
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Support
+## Support
 
 - **Documentation**: [https://docs.ton-threads.com](https://docs.ton-threads.com)
 - **Discord**: [https://discord.gg/ton-threads](https://discord.gg/ton-threads)
@@ -234,25 +234,25 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🎯 Roadmap
 
-### Phase 1 (Current)
+### Phase 1 
 - ✅ Basic thread creation and joining
 - ✅ TON Connect integration
 - ✅ Telegram bot integration
 - ✅ NFT verification
 
-### Phase 2 (Q2 2024)
+### Phase 2 
 - 🔄 Advanced moderation tools
 - 🔄 Thread analytics dashboard
 - 🔄 Mobile app development
 - 🔄 Multi-language support
 
-### Phase 3 (Q3 2024)
+### Phase 3
 - 📋 DAO governance features
 - 📋 Cross-chain compatibility
 - 📋 Advanced NFT utilities
 - 📋 Enterprise features
 
-## 💡 Use Cases
+## Use Cases
 
 ### For Developers
 - Exclusive coding bootcamps
@@ -278,13 +278,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Game-specific communities
 - NFT gaming ecosystems
 
-## 🔗 Links
 
-- **Website**: [https://ton-threads.com](https://ton-threads.com)
-- **GitHub**: [https://github.com/ton-threads/ton-threads](https://github.com/ton-threads/ton-threads)
-- **Twitter**: [@ton_threads](https://twitter.com/ton_threads)
-- **Medium**: [https://medium.com/@ton-threads](https://medium.com/@ton-threads)
-
----
 
 Built with ❤️ by the TON Threads team. Powered by TON blockchain technology.
