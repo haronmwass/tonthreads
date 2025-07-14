@@ -158,7 +158,7 @@ npm run server   # Backend
   - Collection-wide or specific token verification
   - Batch verification capabilities
 
-## 🧪 Testing
+## Testing
 
 ### Running Tests
 ```bash
@@ -225,12 +225,6 @@ We welcome contributions! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Support
-
-- **Documentation**: [https://docs.ton-threads.com](https://docs.ton-threads.com)
-- **Discord**: [https://discord.gg/ton-threads](https://discord.gg/ton-threads)
-- **Telegram**: [https://t.me/ton_threads_support](https://t.me/ton_threads_support)
-- **Email**: support@ton-threads.com
 
 ## 🎯 Roadmap
 
